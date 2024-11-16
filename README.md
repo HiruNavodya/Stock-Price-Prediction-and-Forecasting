@@ -38,3 +38,9 @@ Data Source: Yahoo Finance API for fetching historical stock data.
 Visualization: Matplotlib, Seaborn, and Plotly for dynamic and clear data representation.
 
 This app serves as a powerful tool for investors and financial analysts, combining intuitive design with machine learning to provide actionable insights into stock market trends and future price predictions.
+
+Data Product
+
+https://drive.google.com/file/d/1AE3mVOpYHP6EmTpNo7fkdnu8MMQV70a_/view?usp=sharing
+
+
